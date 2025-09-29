@@ -70,7 +70,7 @@ The app allows users to explore the dataset, visualize trends, preprocess data, 
 - **JSON** – Animation handling
 ## How to Run the Project
 1. Clone the repository:  
-   git clone https://github.com/yourusername/fraud-detection.git
+   git clone https://github.com/GuntimaduguGrace/AI-BASED-FRAUD-DETECTION-IN-BANKING-TRANSACTIONS.git
 2. Install dependencies:  
    pip install -r requirements.txt
 3. Run the app:  
